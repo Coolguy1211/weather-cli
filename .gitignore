@@ -1,0 +1,14 @@
+# Binaries
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+weather
+
+# Config files
+.weather-config.json
+
+# Tooling / OS files
+.DS_Store
+Thumbs.db
